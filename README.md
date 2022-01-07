@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Alexandr Popov
+- 👀 I’m interested in front-end development
+- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 💞️ I’m looking to collaborate on freelance
+- 📫 How to reach me: Popov-A-S@mail.ru
